@@ -21,6 +21,4 @@ Skills: **REACT | CSS | SASS | HTML | JAVASCRIPT | NODEJS | MONGODB | JQUERY | B
 
 ![GitHub metrics](https://metrics.lecoq.io/cfznn)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=cfznn)  
-
 ![Profile views](https://gpvc.arturio.dev/cfznn)  
