@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm **Matheus**
 #### A Full-stack Web Developer looking for learning new things...
-![A Full-stack Web Developer looking for learning new things...](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![A Full-stack Web Developer looking for learning new things...]
 
 Hey! , i'm studying Web Development using React on Front-end, i have some repositories saved, if you want to check..
 
