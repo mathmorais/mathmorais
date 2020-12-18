@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cfznn?tab=repositories](https://github.com/cfznn?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)
 
 - 📫 How to reach me **gm80648@gmail.com**
 
