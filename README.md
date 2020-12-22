@@ -44,5 +44,6 @@
 
 <hr>
 
-<div>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark" alt="mathmorais" /></div>
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmorais&theme=dark" alt="mathmorais"></div>
+<div>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark" alt="mathmorais">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmorais&theme=dark" alt="mathmorais">
+</div>
