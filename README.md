@@ -13,4 +13,5 @@
 
 #
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark" alt="mathmorais" /></p>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark" alt="mathmorais" /></div>
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathmorais&theme=dark)
