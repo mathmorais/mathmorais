@@ -17,7 +17,7 @@
     
 </div>
 
-<h3 align="left">Frameworks
+<h3 align="left">Technologies
 </h3>
 
 <div align="left">
