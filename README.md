@@ -40,8 +40,11 @@
 </div>
 
 <hr>
+    <a href="https://github.com/mathmorais">
+       <img height=200 align=center alt="stats_github" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark">
+    </a>
+    <a href="https://wakatime.com/@mathmorais">
+        <img height=200 align=center alt="lang_wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathmorais&layout=compact">
+    </a>
 
-<div align="center">&nbsp;<img height=200 src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark" alt="mathmorais">
- <a href="https://wakatime.com"><img height=300  alt="wakatime_langs" src="https://wakatime.com/share/@mathmorais/d644dd8c-557d-452e-a90c-07a5270718f8.png" /></a>
-</div>
 
