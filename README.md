@@ -42,6 +42,6 @@
 <hr>
 
 <div align="center">&nbsp;<img height=200 src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark" alt="mathmorais">
- <a href="https://wakatime.com"><img alt="wakatime_langs" src="https://wakatime.com/share/@mathmorais/58ade660-556d-40eb-97a4-30bc8a6e873c.png" /></a>
+ <a href="https://wakatime.com"><img height=200  alt="wakatime_langs" src="https://wakatime.com/share/@mathmorais/d644dd8c-557d-452e-a90c-07a5270718f8.png" /></a>
 </div>
 
