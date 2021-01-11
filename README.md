@@ -43,6 +43,6 @@
 
 <div align="center">&nbsp;<img height=200 src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark" alt="mathmorais">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathmorais&theme=dark" alt="mathmorais">
+ <a href="https://wakatime.com"><img src="https://wakatime.com/share/@mathmorais/58ade660-556d-40eb-97a4-30bc8a6e873c.png" /></a>
 </div>
-    <figure><embed src="https://wakatime.com/share/@mathmorais/26cd7626-3dc2-4247-963e-fb2a2c7ce7cf.svg"></embed></figure>
 
