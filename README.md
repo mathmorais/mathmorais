@@ -40,9 +40,9 @@
 
 <hr>
     <a href="https://github.com/mathmorais">
-       <img height=150 align="center" alt="stats_github" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark">
+       <img height=175 align="center" alt="stats_github" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark">
     </a>
     <a href="https://wakatime.com/@mathmorais">
-        <img height=150 align="center" alt="lang_wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathmorais&theme=dark&layout=compact">
+        <img height=175 align="center" alt="lang_wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathmorais&theme=dark&layout=compact">
     </a>
 
