@@ -36,15 +36,13 @@
 
 <div align="left">
  <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 </div>
 
 <hr>
     <a href="https://github.com/mathmorais">
-       <img align="center" alt="stats_github" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark">
+       <img height=150 align="center" alt="stats_github" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark">
     </a>
     <a href="https://wakatime.com/@mathmorais">
-        <img align="center" alt="lang_wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathmorais&theme=dark&layout=compact">
+        <img height=150 align="center" alt="lang_wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathmorais&theme=dark&layout=compact">
     </a>
-
 
