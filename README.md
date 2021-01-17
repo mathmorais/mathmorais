@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">A Full-stack Web Developer looking for learning new things...</h3>
 
-- 🌱 I’m currently learning **React and NodeJS**
+- 🌱 I’m currently learning **Elixir**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)
 
