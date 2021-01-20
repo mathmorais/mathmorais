@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋
+<h1 align="center">Welcome to my profile!  👋
 <h3 align="center">A Full-stack Web Developer looking for learning new things...</h3>
 
 - 🌱 I’m currently learning **Elixir**
