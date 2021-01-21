@@ -1,7 +1,7 @@
-<h1 align="center">Welcome to my profile!  👋
+<h1 align="center">Hello!,  👋
 <h3 align="center">A Full-stack Web Developer looking for learning new things...</h3>
 
-- 🌱 I’m currently learning **Elixir**
+- 🌱 I’m currently learning **Elixir, NodeJS and React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)
 
