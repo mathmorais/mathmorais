@@ -26,6 +26,7 @@
     <img alt="sass" src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/>
     <img alt="redux" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
     <img alt="express" src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"/>
+    <img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>
 
 </div>
 
