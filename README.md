@@ -1,4 +1,3 @@
-<h1 align="center">Hello!,  👋></ħ1>
 
 - 🌱 I’m currently learning **TypeScript and React**
 
