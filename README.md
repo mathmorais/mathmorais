@@ -1,5 +1,4 @@
 <h1 align="center">Hello!,  👋
-<h3 align="center">A Full-stack Developer looking for learning new things...</h3>
 
 - 🌱 I’m currently learning **TypeScript and React**
 
