@@ -40,11 +40,9 @@
 </div>
 
 <hr>
+
 <div align="center">
     <a align="center" title="Profile" href="https://github.com/mathmorais">
        <img alt="github" align="center" alt="stats_github" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark">
-    </a>
-    <a align="center" title="Wakatime profile" href="https://wakatime.com/@mathmorais">
-        <img alt="wakatime" align="center" alt="lang_wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=mathmorais&theme=dark&layout=compact">
     </a>
 </div>
