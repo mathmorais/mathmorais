@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋</h1>
 
-- 🌱 I’m currently learning **TypeScript and React**
+- 🌱 I’m currently studying **Mobile development with flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)
 
