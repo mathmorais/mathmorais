@@ -1,6 +1,4 @@
-<h1 align="center">Hello 👋</h1>
-
-- 🌱 I’m currently studying **Mobile development with flutter**
+- 🌱 I’m currently studying mobile development with flutter
 
 - 👨‍💻 All of my projects are available at [https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)
 
@@ -37,12 +35,4 @@
 <div align="left">
  <img alt="mongodb" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-</div>
-
-<hr>
-
-<div align="center">
-    <a align="center" title="Profile" href="https://github.com/mathmorais">
-       <img alt="github" align="center" alt="stats_github" src="https://github-readme-stats.vercel.app/api?username=mathmorais&show_icons=true&locale=en&theme=dark">
-    </a>
 </div>
