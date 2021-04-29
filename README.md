@@ -1,4 +1,4 @@
-- 🌱 I’m currently studying mobile development with flutter
+- 🌱 I’m currently studying mobile development with **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)
 
