@@ -11,5 +11,5 @@
 - 📫 How to reach me **gm80648@gmail.com**
 
 <div align="center">
-  <p> I'm Matheus, I'm frequently working on projects here on Github, mostly with React, Node.js and TypeScript, sometimes with Flutter too :)</p>
+  <p>I'm frequently working on projects in Github, mostly with React, Node.js, TypeScript and sometimes with Flutter too</p>
 </div>
