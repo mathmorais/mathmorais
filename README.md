@@ -7,4 +7,8 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)**
 
-- 📫 How to reach me **gm80648@gmail.com**
+- 📫 How to reach me: 
+  - Email: **gm80648@gmail.com**
+  - Linkedin: **https://www.linkedin.com/in/mathmorais/**
+
+- 💻 Personal site: 👷  **[Under construction](https://github.com/mathmorais/personal-website)** 👷 
