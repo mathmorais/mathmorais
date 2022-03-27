@@ -5,10 +5,10 @@
  
 - 🌱 I’m currently studying **React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/mathmorais?tab=repositories](https://github.com/mathmorais?tab=repositories)**
+- 🔭 I’m currently working as a front-end developer at [Cidade Alta](https://cidadealta.gg/)
 
 - 📫 How to reach me: 
   - Email: **gm80648@gmail.com**
   - Linkedin: **https://www.linkedin.com/in/mathmorais/**
 
-- 💻 Personal site: 👷  **[Under construction](https://github.com/mathmorais/personal-website)** 👷 
+- 💻 Personal website: 👷  **[Under construction](https://github.com/mathmorais/personal-website)** 👷 
