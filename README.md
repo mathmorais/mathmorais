@@ -11,4 +11,4 @@
   - Email: **gm80648@gmail.com**
   - Linkedin: **https://www.linkedin.com/in/mathmorais/**
 
-- 💻 Personal website: **[mathmorais.dev](https://mathmorais.dev)**
+- 💻 Website: **[mathmorais.dev](https://mathmorais.dev)**
