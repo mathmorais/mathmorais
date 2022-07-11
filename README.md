@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently studying **React.js and Node.js**
 
-- 🔭 I’m currently working as a **Frontend Developer** at **[Cidade Alta](https://cidadealta.gg/)**
+- 🔭 I’m currently working as a **Web Developer** at **BNP - Soluçoes em TI**
 
 - 📫 How to reach me: 
   - Email: **gm80648@gmail.com**
